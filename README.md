@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gideon Ayodeji
-- 👀 I’m interested in Front end Development/ 
+- 👀 I’m interested in Front end Development
 - 🌱 I’m currently learning HTML 5/ Tailwind CSS/jQuery/python
 - 💞️ I’m looking to collaborate on Front end project/ API cloning/ Data Acquisition
 - 📫 How to reach me:
